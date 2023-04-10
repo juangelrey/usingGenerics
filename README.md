@@ -1,0 +1,1 @@
+Why not a repo to learn generics?
